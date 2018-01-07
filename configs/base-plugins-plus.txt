@@ -1,0 +1,13 @@
+"BasePlugins"
+{
+	"prefix"			"[{blue}SM{white}]"
+	"text"				"{white}"
+	"data"				"{yellow}"
+
+	"admin"				"{orange}"
+	"target"			"{red}"
+
+	"basecommands"		"1"
+	"funcommands"		"1"
+	"playercommands"	"1"
+}

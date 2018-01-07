@@ -1,0 +1,3 @@
+rcon_password
+sm_show_activity
+sm_immunity_mode

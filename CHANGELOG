@@ -1,0 +1,11 @@
+1.10 - Finished playercommands/sm_slap, sm_slay, sm_rename - Added Release to AM (I think it's suitable enough for now)
+1.09 - Finished funcommands/sm_noclip, sm_burn, sm_freeze, sm_gravity - Added ConVar support for a couple of commands, overriding default no access message
+1.08 - Finished basecommands/sm_map,s m_execcfg, sm_rcon
+1.07 - Finished basecommands/sm_protectcvar, sm_resetcvar, sm_cancelvote - Moved protected cvars into a .txt file so they stick
+1.06 - Redid Translations (Make it All Language Friendly)
+1.05 - Added csgocolors.inc // https://gitlab.com/Zipcore/CSGO-Colors
+1.04 - Finished basecommands/sm_cvar
+1.03 - Finished basecommands/sm_reloadplugin
+1.02 - Finished basecommands/sm_reloadadmins
+1.01 - Fixed Wrap issues
+1.00 - INIT Commit, Finished basecommands/sm_kick

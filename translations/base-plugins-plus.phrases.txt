@@ -1,0 +1,241 @@
+"Phrases"
+{
+	"Reloaded Config"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Successfully reloaded the {1}BasePlugins+ {2}Config"
+	}
+
+	"No Access"
+	{
+		"en"		"You don't have access to this command..."
+	}
+
+	"Kicked Target"
+	{
+		"#format"	"{1:s}"
+		"en"		"Kicked! Reason: {1}"
+	}
+
+	"Reload Plugin"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Command has been {1}Disabled! {2}Please Reload the Plugin to remove the Command"
+	}
+
+	"Invalid Args"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1}Invalid Arguments! {2}Usage:"
+	}
+
+	"Kicked Player"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Kicked {1}{2}"
+	}
+
+	"Kicked Player Reason"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"Kicked {1}{2}. {3}Reason: {4}{5}"
+	}
+
+	"Admins Reloaded"
+	{
+		"en"		"Admin Cache Reloaded"
+	}
+
+	"ConVar Already Protected"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"ConVar {1}{2} {3}Is already Protected"
+	}
+
+	"ConVar Protected"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"ConVar {1}{2} {3}Protected"
+	}
+
+	"ConVar Not Found"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"ConVar {1}{2} {3}Not Found"
+	}
+
+	"ConVar Is Protected"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"ConVar {1}{2} {3}Is Protected"
+	}
+
+	"ConVar Value"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"ConVar {1}{2} {3}Value: {4}{5}"
+	}
+
+	"ConVar Changed"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"ConVar {1}{2} {3}Changed To: {4}{5}"
+	}
+
+	"ConVar Reset"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"ConVar {1}{2} {3}Reset To: {4}{5}"
+	}
+
+	"Map Not Found"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Map {1}{2} {3}Not Found"
+	}
+
+	"Changing Map"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:i},{6:s}"
+		"en"		"Changing Map To {1}{2} {3}In {4}{5} {6}Seconds"
+	}
+
+	"Rcon Executed"
+	{
+		"en"		"Executed!"
+	}
+
+	"Config Not Found"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Config {1}{2} {3}Not Found"
+	}
+
+	"Config Executed"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Config {1}{2} {3}Executed"
+	}
+
+	"Noclip Toggled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Toggled Noclip on {1}{2}"
+	}
+
+	"Invalid Amount"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Amount {1}{2} {3}Is Invalid"
+	}
+
+	"Set Gravity"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:f}"
+		"en"		"Set {1}{2} {3}Gravity To: {4}{5}"
+	}
+
+	"Set Burn"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:i},{6:s}"
+		"en"		"Set {1}{2} {3}On Fire For: {4}{5} {6}Seconds"
+	}
+
+	"Set Freeze"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:i},{6:s}"
+		"en"		"Froze {1}{2} {3}For: {4}{5} {6}Seconds"
+	}
+
+	"Slayed"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Slayed {1}{2}"
+	}
+
+	"Slapped"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:i},{6:s}"
+		"en"		"Slapped {1}{2} {3}For: {4}{5} {6}Damage"
+	}
+
+	"Renamed"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"Renamed {1}{2} {3}To: {4}{5}"
+	}
+
+	"No Vote In Progress"
+	{
+		"en"		"No Vote in Progress"
+	}
+
+	"Vote Cancelled"
+	{
+		"en"		"Vote Cancelled"
+	}
+
+	"Plugin Not Found"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Plugin {1}{2} {3}Not Found"
+	}
+
+	"Plugin Reloaded"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Plugin {1}{2} {3}Reloaded"
+	}
+
+	"Plugin Unloaded"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Plugin {1}{2} {3}Unloaded"
+	}
+
+	"Plugin Loaded"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Plugin {1}{2} {3}Loaded"
+	}
+
+	"Target Error 0"
+	{
+		"en"		"No matching Player was found"
+	}
+
+	"Target Error 1"
+	{
+		"en"		"The Player must be alive"
+	}
+
+	"Target Error 2"
+	{
+		"en"		"The Player must be dead"
+	}
+
+	"Target Error 3"
+	{
+		"en"		"The Player is not fully in-game yet"
+	}
+
+	"Target Error 4"
+	{
+		"en"		"You cannot target this Player"
+	}
+
+	"Target Error 5"
+	{
+		"en"		"No matching Players were found"
+	}
+
+	"Target Error 6"
+	{
+		"en"		"You cannot use this command on a Bot"
+	}
+
+	"Target Error 7"
+	{
+		"en"		"More then one Player matched the given pattern"
+	}
+}
