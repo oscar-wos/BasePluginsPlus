@@ -1,5 +1,5 @@
-DIRECTORY="~/Git/BasePlugins-"
+#!/bin/bash
+DIRECTORY="/home/oscar/Git/BasePluginsPlus/"
 FILENAME="Base-Plugins-Plus"
 
-cp $DIRECTORY/scripting/include/* ~/Git/SourceModScripting/include/
 ~/Git/SourceModScripting/spcomp $DIRECTORY/scripting/$FILENAME.sp -o$DIRECTORY/plugins/$FILENAME.smx
