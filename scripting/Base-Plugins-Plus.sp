@@ -15,6 +15,8 @@
  * this program. If not, see http://www.gnu.org/licenses/.
  */
 
+// Compiler Info: Pawn 1.8 - build 6040
+
 #define PLUGIN_VERSION "1.10"
 
 #include <sourcemod>
@@ -45,7 +47,7 @@ public Plugin myinfo = {
 	author = "Oscar Wos (OSWO)",
 	description = "A customisable version of the base plugins included with SourceMod",
 	version = PLUGIN_VERSION,
-	url = "https://git.discordlogs.com / https://steamcommunity.com/id/OSWO",
+	url = "https://github.com/OSCAR-WOS / https://steamcommunity.com/id/OSWO",
 }
 
 #include "Base-Plugins-Plus/basecommands.sp"
@@ -65,7 +67,7 @@ public void OnPluginStart() {
 }
 
 public Action Listener_Global(int iClient, const char[] cCommand, int iArgc) {
-	if (!IsValidClient(iClient)) return;
+	if (!IsValidClient(iClient)) return Plugin_Continue;
 
 	if (CommandExists(cCommand)) {
 		if (!CheckCommandAccess(iClient, cCommand, 0, false)) {

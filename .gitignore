@@ -1,4 +1,2 @@
-Compile.sh
-Upload.sh
 scripting/include/*
 !scripting/include/csgocolors.inc
